@@ -1,5 +1,4 @@
 # Kesintisiz-Veri-Isleme-Altyapisi
-Proje, asenkron bir mesajlaşma kuyruğu kullanarak sistemin yoğun yük altında bile stabil kalmasını sağlar.
 
 S3 (Giriş) Kullanıcı bir görsel yükler.
 
