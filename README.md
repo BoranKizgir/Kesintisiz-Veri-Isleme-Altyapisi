@@ -38,3 +38,7 @@ Decoupling (Bağımsızlık) S3 ile Lambda arasına SQS koyarak, Lambda'da oluş
 Scalability (Ölçeklenebilirlik) Binlerce görsel aynı anda yüklense bile SQS bu yükü göğüsler ve Lambda kapasitesi dahilinde mesajları işler.
 
 Cost Efficiency Serverless bileşenler kullanılarak sadece işlem yapıldığında ücret ödenmesi sağlandı (Free-Tier dostu).
+![](explanation_1.png)
+![](explanation_2.png)
+![](explanation_3.png)
+![]()
