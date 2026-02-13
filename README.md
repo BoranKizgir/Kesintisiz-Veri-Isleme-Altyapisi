@@ -43,4 +43,4 @@ Cost Efficiency Serverless bileşenler kullanılarak sadece işlem yapıldığı
 ![](explanation_3.png)
 ![](explanation_4.png)
 ![](explanation_5.png)
-![](Kesintisiz-Veri-Isleme-Altyapisi.png)
+![](Kesintisiz-Veri-Isleme-Altyapisi.drawio.png)
