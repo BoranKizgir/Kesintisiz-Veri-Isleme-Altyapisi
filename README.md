@@ -9,7 +9,7 @@ SQS (Kuyruk) Mesajları Lambda işleyene kadar güvenli bir şekilde saklar (Buf
 
 Lambda (İşlemci) Kuyruktaki mesajları alır, S3'teki nesneye erişir ve işleme mantığını yürütür.
 
-Kullanılan Teknolojiler
+# Kullanılan Teknolojiler
 AWS S3 Depolama ve Event tetikleyici.
 
 AWS SQS Mesaj kuyruğu (Decoupling).
@@ -18,7 +18,7 @@ AWS Lambda Serverless işlem birimi (Python 3.12).
 
 IAM Servisler arası Least Privilege (En az yetki) erişim politikaları.
 
-Kurulum Adımları (AWS Console)
+# Kurulum Adımları (AWS Console)
 1. SQS Kuyruğu Oluşturma
 image-processing-queue adında bir Standard Queue oluşturuldu.
 
